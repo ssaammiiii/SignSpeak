@@ -9,7 +9,7 @@ Final year project, Department of Computer Engineering, University of Ghana.
 
 Put on both gloves. Spell a word letter by letter and the laptop speaks it.
 Raise the left hand and sign one of ten whole-word signs and it speaks that
-instead. No camera, no fixed setup, and about $48 of parts that are available
+instead. No camera, no fixed setup, and about $135 of parts that are available
 locally.
 
 It recognises the full 26-letter alphabet plus two control gestures, and ten
